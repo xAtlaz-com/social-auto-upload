@@ -188,3 +188,7 @@ cookiesFile
 uploadFile
 videoFile
 
+
+# Videos
+videos/*.mp4
+videos/*.txt
