@@ -168,6 +168,18 @@ douyin_uploader/*.json
 bilibili_uploader/*.json
 tk_uploader/*.json
 
+
+examples/douyin_video_stats.json
+examples/xiaohongshu_note_stats.json
+examples/xiaohongshu_api_debug.json
+examples/douyin_video_detail_api_explore.json
+examples/douyin_single_video_stats.json
+examples/xhs_single_note_api_explore.json
+examples/douyin_api_debug.json
+examples/xiaohongshu_single_note_stats.json
+examples/*.png
+
+
 # 配置文件
 conf.py
 
